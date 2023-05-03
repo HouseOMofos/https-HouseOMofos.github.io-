@@ -1,0 +1,5 @@
+<script>
+    {{--  Links  --}}
+
+    {{--  functions  --}}
+</script>
